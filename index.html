@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HNG INTERNSHIP 0</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <article data-testid="test-profile-card">
+        <figure>
+            <img
+                src="./IMG_0320.JPG" 
+                alt="profile-pics"
+                width="80"
+                height="80"
+                data-testid="test-user-avatar">
+        </figure>
+        <h2 data-testid="test-user-name">Adegboye Babatunde</h2>
+        <p data-testid="test-user-bio">Frontend Developer who loves turning ideas into interactive,visually stunning websites</p>
+        <ul data-testid="test-user-social-links">
+            <li data-testid="test-user-social-twitter">
+                <a href="http://x.com/" target="_blank" rel="noopener noreferrer">
+                    <i class="fa-brands fa-x-twitter" style="color: #ffff"></i>
+                </a>
+            </li>
+            <li data-testid="test-user-social-instagram">
+                <a href="http://instagram.com/" target="_blank" rel="noopener noreferrer">
+                    <i class="fa-brands fa-instagram" style="color: #ffff"></i>
+                </a>
+            </li>
+            <li data-testid="test-user-social-linkedin">
+                <a href="http://linkedin.com/" target="_blank" rel="noopener noreferrer">
+                    <i class="fa-brands fa-linkedin" style="color: #ffff"></i>
+                </a>
+            </li>
+        </ul>
+        <div>
+        <section>
+            <h3>Hobbies</h3>
+            <ul data-testid="test-user-hobbies">
+                <li>Football and sports</li>
+                <li>Musics</li>
+                <li>Watching Movies</li>
+            </ul>
+        </section>
+        <section>
+            <h3>Dislikes</h3>
+            <ul data-testid="test-user-dislikes">
+                <li>Slow internets</li>
+                <li>Traffics</li>
+                <li>Loud noise</li>
+            </ul>
+        </section>
+        </div>
+        <p>
+            Current time(ms):
+            <span data-testid="test-user-time"></span>
+        </p>
+
+    </article>
+
+
+    <script src="script.js"></script>
+</body>
+</html>
