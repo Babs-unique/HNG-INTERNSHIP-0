@@ -25,7 +25,7 @@ HTML | CSS | JavaScript
 ## Live Links
 
 * 🔗 **Live Demo:** https://babs-unique.github.io/HNG-INTERNSHIP-0/
-* 💻 **GitHub Repo:** https://github.com/Babs-unique/HNG-INTERNSHIP-0/
+* 💻 **GitHub Repo:** https://github.com/Babs-unique/HNG-INTERNSHIP-0/ 
 
 ---
 
