@@ -1,6 +1,6 @@
 # Frontend Wizards — Stage 0 Task
 
-This is my submission for the **Frontend Wizards Stage 0 Profile Card** task.
+This is my submission for the **Frontend Wizards Stage 1 Profile Card with about and contact page** task.
 It’s built with **HTML, CSS, and JavaScript**, focusing on accessibility, responsiveness, and clean structure.
 
 ---
@@ -13,7 +13,8 @@ It’s built with **HTML, CSS, and JavaScript**, focusing on accessibility, resp
 * Avatar image with alt text
 * Social links that open in a new tab
 * Separate lists for hobbies and dislikes
-
+* A contact form with form validation
+* A about section 
 ---
 
 ## Tech Stack
